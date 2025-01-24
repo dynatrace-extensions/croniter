@@ -23,8 +23,8 @@ long_description = "\n\n".join(
 )
 
 setup(
-    name='croniter',
-    version='6.0.1.dev0',
+    name='dt-croniter',
+    version='6.0.1',
     py_modules=['croniter', ],
     description=(
         'croniter provides iteration for datetime '
@@ -33,7 +33,7 @@ setup(
     long_description=long_description,
     author="Matsumoto Taichi, kiorky",
     author_email='taichino@gmail.com, kiorky@cryptelium.net',
-    url='http://github.com/kiorky/croniter',
+    url='https://github.com/dynatrace-extensions/croniter',
     keywords='datetime, iterator, cron',
     install_requires=install_requires,
     license="MIT License",

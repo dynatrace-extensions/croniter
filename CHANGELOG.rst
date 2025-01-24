@@ -1,10 +1,10 @@
 Changelog
 ==============
 
-6.0.1 (unreleased)
+6.0.1
 ------------------
 
-- Nothing changed yet.
+- Dynatrace release to work around unmaintained code [dlopes7]
 
 
 6.0.0 (2024-12-17)
