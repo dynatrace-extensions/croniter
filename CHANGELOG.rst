@@ -7,6 +7,12 @@ Changelog
 - Dynatrace release to work around unmaintained code [dlopes7]
 
 
+6.0.2 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
 6.0.0 (2024-12-17)
 ------------------
 - Announce for now that croniter dev is ended (CRA).
